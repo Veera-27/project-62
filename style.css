@@ -1,0 +1,29 @@
+body
+{
+    text-align: center;
+   
+}
+.container{
+  background: linear-gradient(#f72111 0%,#f4fc00 75%,#00ffd5 100%); 
+}
+#app {
+    background-color: aliceblue;
+}
+
+#myCarousel
+{
+    background-color: red;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
